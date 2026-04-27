@@ -7,5 +7,5 @@ If the user fails to select a working COM-port the program will not work normall
 Files in the repository
 1. modbus_scanner_start.py - The initial Python code created by Grok from the starting prompt of this project. NOT OPERATIONAL, included for research purposes.
 2. modbus_scanner_final.py - The final Python code modified from the initial file by developer and Gemini. Requires installation of "pymodbus" library to operate.
-3. modbus_scanner_final.exe - Fully operational program.
+3. modbus_scanner_final.zip - Contains the fully operational program named modbus_scanner_final.exe. To run, unzip to your computer and run the file.
 
