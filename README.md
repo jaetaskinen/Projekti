@@ -5,7 +5,7 @@ When starting the program, user must select the COM-port used, baudrate, parity,
 If the user fails to select a working COM-port the program will not work normally.
 
 Files in the repository
-1. modbus_scanner_start.py - The initial Python code created by Grok from the starting prompt of this project.
-2. modbus_scanner_final.py - The final Python code modified from the initial file, by developer and Gemini.
+1. modbus_scanner_start.py - The initial Python code created by Grok from the starting prompt of this project. NOT OPERATIONAL, included for research purposes.
+2. modbus_scanner_final.py - The final Python code modified from the initial file by developer and Gemini. Requires installation of "pymodbus" library to operate.
 3. modbus_scanner_final.exe - Fully operational program.
 
